@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    background-color: antiquewhite;
+}
+
+.navbar{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(144, 218, 40);
+}
+
+.navdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li{
+    display:inline;
+}
+
+ul li a{
+    text-decoration: none;
+    margin: 65px;
+    font-size: 18px;
+    color: black;
+}
+
+.logo img{
+    margin:10px 0px 10px 10px;
+    height: 50px;
+   
+    
+}
+
